@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.api username=OLEPOSSU&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.api?username=OLEPOSSU&theme=radical)
 <!--
 **OLEPOSSU/OLEPOSSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
